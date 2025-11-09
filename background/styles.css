@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(133, 111, 111);
+    background-image: url(https://iso.500px.com/wp-content/uploads/2015/06/jeffbetween_cover-1500x965.jpeg);    /* background-position: top right; */
+    background-size: cover;
+    background: green no-repeat cover url(https://www.imf.org/-/media/Images/IMF/Countries/detail-page/SOM/Somalia-hero.ashx?h=290&w=1099&la=en);
+    background-attachment: fixed;
+}
