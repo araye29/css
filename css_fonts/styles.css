@@ -1,0 +1,15 @@
+h1{
+    /* font-size: 50px;
+    font-family:Saira;
+    font-style: italic ;
+    font-weight: bolder;
+    font-variant: small-caps; */
+    font: bolder 50px/1.8px   Saira;
+
+}
+
+p{
+line-height:1.6 ;
+word-spacing: 2px;
+letter-spacing: 1px;
+}

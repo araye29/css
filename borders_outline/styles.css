@@ -1,0 +1,33 @@
+h1{
+    border: green 10px solid;
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: blue; */
+    border-radius: 20px;
+    outline-style: dashed;
+    outline-color: red;
+    outline-width: 5px;
+    outline-offset: 5px;
+    
+    padding: 20px 10px;
+
+
+
+}
+
+/* p{
+    border-style: groove;
+}
+
+
+div{
+    border-style: double;
+}
+
+span{
+    border-style: dashed;
+} */
+
+/* *{
+    border-style: solid;
+} */
